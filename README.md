@@ -160,7 +160,8 @@ After adjusting for insurance status and behavioral confounders:
   
 - The West and Northeast show relatively lower risk convergence.
   
-Regional healthcare context:
+## Regional healthcare context:
+
 The South and Midwest pattern likely reflects compounding structural conditions: rural hospital closures, maternity and primary care deserts, and lower Medicaid expansion uptake in some states have reduced both preventive care infrastructure and insurance coverage simultaneously — creating precisely the high-risk environment identified by the interaction term.
 
 These findings suggest that the geographic healthcare policy environment shapes how preventive care access translates into population-level outcomes, not just individual-level exposure.
