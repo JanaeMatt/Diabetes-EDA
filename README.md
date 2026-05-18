@@ -121,12 +121,17 @@ The positive interaction coefficient indicates that the negative impact of limit
 Limited preventive care increases hypertension risk for everyone, but the increase is substantially larger for uninsured populations.
 
 •	Low-uninsured counties (no_insurance ≤ median): The checkup_rate coefficient was −0.0051 (p = 0.233) — not statistically significant. In counties with adequate insurance coverage, preventive care access alone does not show a significant marginal effect on hypertension, suggesting other factors dominate or that the relationship is non-linear.
+
 •	High-uninsured counties (no_insurance > median): The checkup_rate coefficient was +0.0336 (p < 0.001) — statistically significant and positive. This counterintuitive direction warrants careful interpretation.
 
 Explaining the Counterintuitive Finding in High-Uninsured Counties
+
 A positive checkup coefficient in high-uninsured counties does not mean preventive care increases hypertension risk. Three mechanisms likely explain this pattern:
+
 •	Reverse causality: Counties with higher hypertension burden may be proactively expanding screening programs, creating a spurious positive correlation in cross-sectional data.
+
 •	Confounding: Unmeasured variables specific to high-uninsured environments — such as provider type mix, Federally Qualified Health Center density, or Medicaid expansion timing — may simultaneously drive both higher checkup rates and higher hypertension diagnosis rates.
+
 •	Detection bias: Increased screening in high-risk counties increases diagnosed (measured) prevalence without necessarily reflecting increased true prevalence, inflating the observed positive coefficient.
 
 
