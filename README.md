@@ -98,7 +98,6 @@ A positive checkup coefficient in high-uninsured counties does not mean preventi
 
 •	Detection bias: Increased screening in high-risk counties increases diagnosed (measured) prevalence without necessarily reflecting increased true prevalence, inflating the observed positive coefficient.
 
-<img width="623" height="123" alt="image" src="https://github.com/user-attachments/assets/904c4109-da34-463a-9b49-16d7a2e21276" />
 
 ## Effect size summary:
 High uninsured rate + limited preventive access: Strongest hypertension association.
