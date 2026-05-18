@@ -21,9 +21,20 @@ Insights and recommendations are organized around the following areas:
    
 # Executive Summary
 
-Limited access to preventive healthcare is significantly associated with higher odds of hypertension at the county level. A one percentage point increase in routine checkup rates was associated with a 1.16 percentage point decrease in hypertension prevalence (95% CI: −1.170 to −1.146, p < 0.001), while a one percentage point increase in the uninsured rate was associated with a 0.62 percentage point increase (95% CI: 0.610 to 0.625, p < 0.001). The effect is not uniform: insurance status meaningfully modifies the relationship, with uninsured populations experiencing a disproportionately stronger association between limited preventive care access and hypertension prevalence. Structural factors including socioeconomic disadvantage, reduced provider availability, obesity, physical inactivity, and smoking, further amplify risk. These findings indicate that improving preventive care access alone is insufficient. Targeted, insurance-aware interventions are critical to reducing hypertension disparities in underserved communities.
+Limited access to preventive healthcare is associated with higher hypertension prevalence—but this relationship is not uniform across populations.
 
-The analysis uses a multivariable logistic regression framework with an interaction term between preventive care access and insurance status to assess effect modification.
+This analysis finds that insurance status significantly amplifies risk: counties with both low preventive care access and high uninsured rates consistently exhibit the highest hypertension burden.
+While increasing routine checkups is associated with lower hypertension overall, access alone does not guarantee improved outcomes. The ability to act on that access—largely determined by insurance coverage—drives whether preventive care translates into meaningful risk reduction.
+
+Key Insight:
+Hypertension disparities are driven by the intersection of access, insurance coverage, and structural conditions—not any single factor in isolation.
+
+Supporting Evidence
+- +1% increase in routine checkups → ~1.16% decrease in hypertension prevalence (p < 0.001)
+
+- +1% increase in uninsured rate → ~0.62% increase in hypertension prevalence (p < 0.001)
+
+- Preventive care × insurance interaction → statistically significant (p < 0.001)
 
 # Data Structure
 The dataset used is a CDC county-level dataset on chronic disease indicators and healthcare access. The analytic structure organizes variables across the following categories:
