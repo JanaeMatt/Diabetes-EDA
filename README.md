@@ -58,55 +58,19 @@ Models adjust for provider availability, socioeconomic conditions, and behaviora
 
 Preventive care access is modeled as an upstream determinant of hypertension through delayed diagnosis and reduced care continuity, with insurance status influencing the ability to act on available care.
 
-# **Baseline Context Before Accounting for Insurance Status**
+# **Preventitive Care Access Alone Does Not Fully Explaiin Risk**
 
-Hypertension Prevalence and Preventive Care AccessCounties with lower preventive care access show consistently higher hypertension prevalence.
+Counties with lower preventive care access show higher hypertension prevalence. However, this association weakens after adjusting for behavioral and socioeconomic factors.
 
-Unadjusted comparisons show a moderate positive association between limited preventive care and hypertension.
-
-This association narrows slightly when behavioral confounders (obesity, inactivity) are introduced, confirming partial mediation through lifestyle pathways.
-
-Absolute differences across access quintiles are meaningful at the population level.
-Preventive care access alone does not fully explain hypertension variation, justifying the interaction analysis with insurance status.
-
-Why this matters: Baseline differences by care access are present but modest when averaged across insurance groups, suggesting that stratifying by insurance status will reveal concentrated risk patterns that aggregate analyses conceal.
-
-Baseline Regional Differences in Hypertension PrevalenceHypertension prevalence differs across U.S. census regions independent of preventive care access.
-The South exhibits the highest baseline hypertension prevalence.
-The Northeast and West show lower baseline rates.
-Regional differences persist after adjusting for behavioral risk factors, indicating structural and healthcare access contributors.
-Why this matters: Even before accounting for preventive care timing or insurance status, regional disparities justify geographic stratification in subsequent modeling.
+Interpretation: Preventive care access contributes to hypertension risk, but does not fully explain observed variation—indicating additional structural factors are involved.
                                                                                                                                                      
-## Core Analytical Findings - Preventive Healthcare Access and Hypertension: Main Association
 
-<img width="541" height="506" alt="image" src="https://github.com/user-attachments/assets/b820dc4b-bc71-4bf2-9a3a-b87580a745fc" />
-
-
-Limited Preventive Care Access Is Associated With Higher Hypertension Odds — But Effect Magnitude Depends on Who Is Uninsured
-In unadjusted comparisons, counties with lower preventive care access show higher hypertension prevalence across all regions. However, the magnitude of this association is not consistent across insurance environments. A one percentage point increase in the county-level checkup rate was associated with a 1.158 percentage point decrease in hypertension prevalence (95% CI: −1.170 to −1.146; p < 0.001), holding the uninsured rate and all control variables constant.  
-This reflects a compound exposure effect:
-Low preventive care access delays diagnosis and interrupts disease management.
-
-High uninsured rates in the same counties remove the financial mechanism that would otherwise enable care-seeking even when access nominally exists.
-
-Absence of both preventive access and insurance coverage is associated with the strongest hypertension prevalence estimates across all regions.
-Key Insight: The true risk concentration emerges at the intersection of limited access and high uninsured rates — not from either factor in isolation.
-
-
-Preventive Care Access Quartile
-Avg. Hypertension Prevalence
-Absolute Gap vs. Highest Quartile
-Lowest Quartile (Most Limited Access)
-14.21%
-+6.04 percentage points
-Highest Quartile (Best Access)
-8.17%
-Reference
-
-<img width="623" height="123" alt="image" src="https://github.com/user-attachments/assets/904c4109-da34-463a-9b49-16d7a2e21276" />
 
 
 # Effect Modification by Insurance Status
+
+<img width="541" height="506" alt="image" src="https://github.com/user-attachments/assets/b820dc4b-bc71-4bf2-9a3a-b87580a745fc" />
+
 Insurance Status Significantly Modifies the Relationship Between Preventive Care Access and Hypertension
 
 The interaction term between preventive care access and insurance status was statistically significant.
@@ -134,6 +98,7 @@ A positive checkup coefficient in high-uninsured counties does not mean preventi
 
 •	Detection bias: Increased screening in high-risk counties increases diagnosed (measured) prevalence without necessarily reflecting increased true prevalence, inflating the observed positive coefficient.
 
+<img width="623" height="123" alt="image" src="https://github.com/user-attachments/assets/904c4109-da34-463a-9b49-16d7a2e21276" />
 
 ## Effect size summary:
 High uninsured rate + limited preventive access: Strongest hypertension association.
@@ -161,13 +126,6 @@ Smoking — Independently associated with cardiovascular risk, and clustered geo
 Key Insight: Hypertension disparities are driven by a convergence of structural exposures — not individual behavior alone. This has direct implications for intervention design.
 Geographic Context
 
-# Southern Counties Exhibit the Strongest Convergence of Risk Factors
-After adjusting for insurance status and behavioral confounders:
-- The South consistently shows the highest hypertension prevalence, the lowest preventive care access scores, and the highest uninsured rates in the dataset.
-  
-- The Midwest shows a similar but less extreme pattern.
-  
-- The West and Northeast show relatively lower risk convergence.
   
 ## Regional healthcare context:
 
