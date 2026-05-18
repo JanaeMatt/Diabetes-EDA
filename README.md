@@ -105,6 +105,8 @@ Highest Quartile (Best Access)
 8.17%
 Reference
 
+<img width="623" height="123" alt="image" src="https://github.com/user-attachments/assets/904c4109-da34-463a-9b49-16d7a2e21276" />
+
 
 # Effect Modification by Insurance Status
 Insurance Status Significantly Modifies the Relationship Between Preventive Care Access and Hypertension
