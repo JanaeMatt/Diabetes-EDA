@@ -45,7 +45,7 @@ The dataset used is a CDC county-level dataset on chronic disease indicators and
   
 This structure reflects a standard epidemiological risk factor–outcome framework with effect modification, commonly applied in chronic disease surveillance and health services research. The county-level, ecological design enables cross-regional comparison but introduces ecological fallacy limitations addressed in the Next Steps section.
 
-<img width="700" height="556" alt="image" src="https://github.com/user-attachments/assets/9ac84812-aa31-4028-842b-d6fe9401de57" />
+<img width="600" height="556" alt="image" src="https://github.com/user-attachments/assets/9ac84812-aa31-4028-842b-d6fe9401de57" />
 
 
 
