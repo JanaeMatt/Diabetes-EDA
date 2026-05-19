@@ -116,11 +116,11 @@ Key Insight: Insurance status functions as a structural amplifier. Improving pre
 - Socioeconomic Disadvantage and Behavioral Environment Independently Amplify Hypertension Risk
 Beyond the primary exposure and effect modifier, additional structural variables contributed meaningfully to the model:
 
-- Obesity and physical inactivity — Both are independently associated with higher hypertension prevalence across all county types. These behavioral exposures partially mediate the relationship between socioeconomic disadvantage and hypertension.
+- Obesity and physical inactivity - Both are independently associated with higher hypertension prevalence across all county types. These behavioral exposures partially mediate the relationship between socioeconomic disadvantage and hypertension.
 
-- Primary care physician availability — Lower provider density is associated with reduced preventive care utilization, creating a downstream pathway to higher hypertension rates. This variable partially confounds and partially mediates the primary exposure.
+- Primary care physician availability - Lower provider density is associated with reduced preventive care utilization, creating a downstream pathway to higher hypertension rates. This variable partially confounds and partially mediates the primary exposure.
 
-- Socioeconomic conditions — Counties with higher poverty proxies and lower educational attainment show elevated hypertension prevalence, even after adjusting for behavioral factors, suggesting structural pathways operating independently of individual health behaviors.
+- Socioeconomic conditions - Counties with higher poverty proxies and lower educational attainment show elevated hypertension prevalence, even after adjusting for behavioral factors, suggesting structural pathways operating independently of individual health behaviors.
 
 - Smoking - Independently associated with cardiovascular risk, and clustered geographically in high-uninsured, low-access counties, contributing to confounding.
 
