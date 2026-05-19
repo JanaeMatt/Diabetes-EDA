@@ -58,7 +58,7 @@ Models adjust for provider availability, socioeconomic conditions, and behaviora
 
 Preventive care access is modeled as an upstream determinant of hypertension through delayed diagnosis and reduced care continuity, with insurance status influencing the ability to act on available care.
 
-# **Preventitive Care Access Alone Does Not Fully Explaiin Risk**
+# **Preventitive Care Access Alone Does Not Fully Explain Risk**
 
 Counties with lower preventive care access show higher hypertension prevalence. However, this association weakens after adjusting for behavioral and socioeconomic factors.
 
