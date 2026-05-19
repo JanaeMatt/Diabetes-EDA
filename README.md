@@ -17,10 +17,10 @@ Limited access to preventive healthcare is associated with higher hypertension p
 
 This analysis finds that insurance status significantly amplifies risk: counties with both low preventive care access and high uninsured rates consistently exhibit the highest hypertension burden.
 
-While increasing routine checkups is associated with lower hypertension overall, access alone does not guarantee improved outcomes. The ability to act on that access—largely determined by insurance coverage—drives whether preventive care translates into meaningful risk reduction.
+While increasing routine checkups is associated with lower hypertension overall, access alone does not guarantee improved outcomes. The ability to act on that access largely determined by insurance coverage drives whether preventive care translates into meaningful risk reduction.
 
 Key Insight:
-Hypertension disparities are driven by the intersection of access, insurance coverage, and structural conditions—not any single factor in isolation.
+Hypertension disparities are driven by the intersection of access, insurance coverage, and structural conditions not any single factor in isolation.
 
 Supporting Evidence
 - +1% increase in routine checkups → ~1.16% decrease in hypertension prevalence (p < 0.001)
