@@ -125,7 +125,7 @@ Beyond the primary exposure and effect modifier, additional structural variables
 - Smoking - Independently associated with cardiovascular risk, and clustered geographically in high-uninsured, low-access counties, contributing to confounding.
 
 Key Insight: Hypertension disparities are driven by a convergence of structural exposures not individual behavior alone. This has direct implications for intervention design.
-Geographic Context
+
 
   
 ## Regional healthcare context:
