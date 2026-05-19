@@ -151,19 +151,19 @@ Analytical Limitations
 # Policy and Practice Recommendations
 Healthcare systems and public health programs should:
 
-- Prioritize Preventive Care Expansion in High-Uninsured Counties
+- **Prioritize Preventive Care Expansion in High-Uninsured Counties**
 Target counties where limited access and high uninsured rates converge, particularly in the South and Midwest. Community-based screening programs and mobile health clinics can reduce diagnostic delay even where provider infrastructure is limited.
 
-- Develop Insurance Aware Intervention Strategies
+- **Develop Insurance Aware Intervention Strategies**
 General access improvements will have a muted impact in high - uninsured environments. Programs must pair expanded preventive services with subsidized visit pathways, free screening initiatives, and Medicaid enrollment support to realize full risk - reduction potential.
 
-- Address Behavioral Risk Factors at the Population Level
+- **Address Behavioral Risk Factors at the Population Level**
 Obesity, physical inactivity, and smoking are independently associated with higher hypertension rates and are concentrated in the same counties facing structural access barriers. Integrated behavioral interventions, co - located with preventive care can address multiple upstream risk factors simultaneously.
 
-- Strengthen Primary Care Infrastructure in Underserved Regions
+- **Strengthen Primary Care Infrastructure in Underserved Regions**
 Increase primary care provider density in counties with low physician-to-population ratios. Financial incentives for primary care practice in high need regions (loan forgiveness, enhanced Medicaid reimbursement) can address the structural supply gap driving reduced preventive utilization.
 
-- Improve Data Completeness and Granularity
+- **Improve Data Completeness and Granularity**
 Enhance county-level data collection on insurance status, preventive care utilization rates, and hypertension diagnosis timing. Missing or proxy only socioeconomic data likely underestimates risk in the most disadvantaged counties.
 
 These findings could directly inform:
@@ -175,11 +175,11 @@ State and federal chronic disease prevention funding allocation
 # Next Steps
 - Move to Individual-Level Analysis - The current dataset is ecological (county-level). The next analytic step is replication using BRFSS or NHANES for individual level modeling, which will eliminate ecological fallacy concerns and enable more precise odds ratio estimation.
 
-- Add Demographic Controls - Introduce age, sex, and race/ethnicity as additional effect
+- **Add Demographic Controls - Introduce age, sex, and race/ethnicity as additional effect**
 modifiers and confounders. Racial disparities in hypertension prevalence are well - documented and likely interact with both preventive access and insurance status.
 
-- Apply Causal Inference Methods - Propensity score matching, instrumental variable analysis, or difference - in - differences designs using Medicaid expansion as a natural experiment would strengthen causal claims beyond the current associational framework.
+- **Apply Causal Inference Methods** - Propensity score matching, instrumental variable analysis, or difference - in - differences designs using Medicaid expansion as a natural experiment would strengthen causal claims beyond the current associational framework.
   
-- Conduct Policy Simulation -  Estimate the projected reduction in hypertension prevalence if preventive care access improves by a defined threshold (e.g., 10th to 50th percentile) under varying insurance coverage scenarios. This translates statistical findings into actionable risk reduction estimates for policymakers.
+- **Conduct Policy Simulation** -  Estimate the projected reduction in hypertension prevalence if preventive care access improves by a defined threshold (e.g., 10th to 50th percentile) under varying insurance coverage scenarios. This translates statistical findings into actionable risk reduction estimates for policymakers.
   
-- Expand Downstream Outcomes -  Incorporate cardiovascular event rates, hospitalization for hypertensive crisis, and all cause mortality as downstream outcomes to assess the full public health cost of the identified access and insurance gaps.
+- **Expand Downstream Outcomes** -  Incorporate cardiovascular event rates, hospitalization for hypertensive crisis, and all cause mortality as downstream outcomes to assess the full public health cost of the identified access and insurance gaps.
